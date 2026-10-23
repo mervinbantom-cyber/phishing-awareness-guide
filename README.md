@@ -8,7 +8,7 @@ Phishing is one of the most common cyber threats. This project gives simple, pra
 ## What's inside
 - docs/phishing-red-flags.md: signs of a phishing message
 - docs/phishing-checklist.md: a checklist to use before clicking
-- docs/incident-reporting.md: what to do if you spot or fallfor phishing
+- docs/incident-reporting.md: what to do if you spot or fall for phishing
 ## How to use it
 Read the red flags guide first, then keep the checklist handy.
 ## How to use it
