@@ -13,4 +13,4 @@
 2. Check the sender's real address.
 3. Hover over links to see where they lead.
 4. Report it to your IT or security team.
-5. Delete the message
+5. Delete the message.
