@@ -10,11 +10,11 @@
 4. Tell the SOC or IT helpdesk immediately. Quick reporting limits the damage.
 5. Watch your accounts for unusual activity.
 ## Information to include in your report
-- Date and time you received the message
-- Sender's address
-- Subject line
-- What you clicked or shared, if anything
-- A screenshot (never forward a suspicious attachment)
+- Date and time you received the message.
+- Sender's address.
+- Subject line.
+- What you clicked or shared, if anything.
+- A screenshot (never forward a suspicious attachment).
 ## Contacts
 - Email: soc@zuluglobal.com
 - Tel: 0800 123 456
